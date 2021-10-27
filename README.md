@@ -1,2 +1,2 @@
 # C-Algorithm-Programming-Lessons-Notes
-My algorithm and programming lessons notes and practice projects
+My Algorithm and Programming Lessons notes and practice projects
